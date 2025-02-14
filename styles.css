@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear(#2596be);
+    background: linear-gradient(135deg, #ff6b6b, #ff8e8e);
     font-family: 'Poppins', sans-serif;
     flex-direction: column;
     margin: 0;
