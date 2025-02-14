@@ -85,7 +85,7 @@ h1{
 }
 
 .gif-container::before {
-    content: '❤️  ';
+    content: '❤️';
     position: absolute;
     font-size: 4rem;
     animation: float 3s ease infinite;
@@ -94,6 +94,7 @@ h1{
 
 .gif-container::after {
     content: '💖';
+    left: -20px;
     position: absolute;
     font-size: 4rem;
     animation: float 3s ease infinite 1.5s;
