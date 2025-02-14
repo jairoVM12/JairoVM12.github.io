@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #5690b9, #c96387);
+    background: linear-gradient(135deg, #c96387, #c96387);
     font-family: 'Poppins', sans-serif;
     flex-direction: column;
     margin: 0;
@@ -48,13 +48,13 @@ h1{
     transition: all 0.3s ease;
     font-weight: bold;
     text-transform: uppercase;
-    background-color: #4cd137;
+    background-color: #70bc69;
     color: white;
     white-space: nowrap;
 }
 
 .yes-btn:hover{
-    background-color: #44bd32;
+    background-color: #70bc69;
     transform: translateY(-2px);
 }
 
@@ -67,13 +67,13 @@ h1{
     transition: all 0.3s ease;
     font-weight: bold;
     text-transform: uppercase;
-    background-color: #ff4757;
+    background-color: #ff1205;
     color: white;
     white-space: nowrap;
 }
 
 .no-btn:hover{
-    background-color: #ff6b81;
+    background-color: #ff1205;
     transform: translateY(-2px);
 }
 
