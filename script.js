@@ -1,12 +1,12 @@
 const messages = [
-"¿pq no?",
+"¿pq no amor?",
 "¿segura?",
 "¿mi amor estas bien?",
-"Por favoooor",
+"Por favoooor mi vida",
 "!Piensalo bien porfaaa!",
-"No me digas no q me pongo a llorar",
-"no me pongas asi :(",
-"KSJSJSKAKSJ va paro",
+"No me digas no q lloro 😭",
+"no seas asi corazón :(",
+"va paro...",
 "Es broma, di si por favoooor!!!",
 ]
 
