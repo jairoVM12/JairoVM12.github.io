@@ -94,7 +94,7 @@ h1{
 
 .gif-container::after {
     content: '💖';
-    left: -2px;
+    left: 2px;
     position: absolute;
     font-size: 4rem;
     animation: float 3s ease infinite 1.5s;
