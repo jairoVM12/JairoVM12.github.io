@@ -35,7 +35,7 @@ h1{
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     animation: fadeIn 1s ease, bounce 2s ease infinite;
-    background: linear-gradient(45deg, #0a0a0a, #0a0a0a, #ecec53);
+    background: linear-gradient(45deg, #0a0a0a, #FF0000, #0a0a0a);
     background-size: 200% auto;
     -webkit-background-clip: text;
     background-clip: text;
@@ -85,17 +85,17 @@ h1{
 }
 
 .gif-container::before {
-    content: '❤️';
+    content: '❤️  ';
     position: absolute;
-    font-size: 3rem;
+    font-size: 4rem;
     animation: float 3s ease infinite;
     opacity: 0;
 }
 
 .gif-container::after {
-    content: '🤍';
+    content: '💖';
     position: absolute;
-    font-size: 3rem;
+    font-size: 4rem;
     animation: float 3s ease infinite 1.5s;
     opacity: 0;
 }
