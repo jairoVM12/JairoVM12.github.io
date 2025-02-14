@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #ff6b6b, #ff8e8e);
+    background: linear-gradient(135deg, #5690b9, #c96387);
     font-family: 'Poppins', sans-serif;
     flex-direction: column;
     margin: 0;
@@ -13,7 +13,7 @@ body{
 }
 
 .container{
-    background: rgba(370, 150, 190, 0.9);
+    background: rgba(255, 255, 255, 0.9);
     padding: 2rem;
     border-radius: 20px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
@@ -27,7 +27,7 @@ body{
 h1{
     font-size: clamp(1.5rem, 5vw, 2.5rem);
     margin-bottom: 1.5rem;
-    color: #ff4757;
+    color: #ffffff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
